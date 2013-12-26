@@ -1,0 +1,70 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1647" measuredH="997" mockupW="1407" mockupH="953">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="240" y="44" w="299" h="123" measuredW="280" measuredH="120" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>http%3A//roost.cz</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C0%2C299%2C123%22%20href%3D%22http%3A//roost.cz%22%20alt%3D%22http%3A//roost.cz%22%20id%3D%220%22%20target%3D%22_blank%22/%3E</map>
+        <src>../../../../../../../wamp/www/mmstudio/img/logo.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::SubTitle" x="520" y="359" w="-1" h="-1" measuredW="122" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Co%20um%EDme%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextArea" x="520" y="395" w="183" h="176" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ro%u017E%u0161%ED%u0159%EDme%20pov%u011Bdom%ED%20va%u0161%ED%20internetov%E9%20prezentace%0A%20%0A%20%0AKOMPLEXN%CD%20%20ANAL%DDZA%0A------------------------------%0AAnal%FDza%20webov%FDch%20str%E1nek%0AAnal%FDza%20+/-%20str%E1nek%0AAnal%FDza%20konkurence%0ASWOT%20anal%FDza%0A%20%0A%20%0A%20%0A%20%0APPC%20KAMPA%u0147%0A------------------%0A%20%0A%20%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Tooltip" x="568" y="56" w="248" h="105" measuredW="234" measuredH="102" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>14</size>
+        <text>Search%20Engine%20Marketing%3A%0ASEO%0APPC%0AAnal%FDzy%0A%20</text>
+        <tooltipDirection>SW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::FieldSet" x="271" y="615" w="743" h="382" measuredW="200" measuredH="170" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::TextInput" x="362" y="671" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>email</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::TextInput" x="362" y="638" w="-1" h="-1" measuredW="107" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Jm%E9no%20P%u0159%EDjmen%ED</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::TextInput" x="363" y="704" w="-1" h="-1" measuredW="105" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>telefon%ED%20kontakt</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::TextArea" x="364" y="747" w="-1" h="-1" measuredW="200" measuredH="140" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>v%E1%u0161%20dotaz</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::PointyButton" x="366" y="916" w="95" h="-1" measuredW="79" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>13369344</color>
+        <direction>right</direction>
+        <text>ODESLAT</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::ColumnChart" x="271" y="395" w="-1" h="-1" measuredW="187" measuredH="175" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Tooltip" x="1372" y="86" w="275" h="273" measuredW="263" measuredH="326" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tvorbou%20str%E1nek%20va%u0161e%20p%u016Fsobven%ED%20na%20intrernetu%20teprve%20za%u010D%EDn%E1...%0A%20%0APot%u0159ebuje%20te%20se%20%22zviditelnit%22..%3F%0A%20%0ANe%3F%0A%20%0AAle%20ANO%21%0A%20%0ANap%u0159.%20p%u0159%EDpadov%E1%20studie%20v%E1m%20snadno%20p%u0159edvede%20jak%E9%20ovoce%20p%u0159in%E1%u0161%ED%20spolupr%E1ce%20b%u011B%u017En%E9ho%20podnik%E1n%ED%20a%20propagace%20na%20internetu.%0A%20%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::MenuBar" x="271" y="209" w="743" h="68" measuredW="568" measuredH="29" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%09%09%09%DAvod%09%09%2C%20SEO%09%09%2C%20PPC%09%09%2C%20Kontakt</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

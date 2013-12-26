@@ -1,0 +1,78 @@
+<div id="page">
+<div id="obal">
+<h1>Roost.cz</h1>
+<div id="menu">
+  <a class="menu-item" href="#uvod" title="Úvod">Úvod</a>
+  <a class="menu-item" href="#seo" title="SEO">SEO</a>
+  <a class="menu-item" href="#ppc" title="PPC">PPC</a>
+  <a class="menu-item" href="#ContactForm" title="Kontakt">Kontakt</a>
+</div>
+
+
+
+<div id="uvod">
+<h2>Co umíme</h2>
+<p>Poskytujeme služby v oblasti internetového podnikání.
+  Pro úspěšné podnikání na internetu* jsou základem odborně vytvořené webové* stránky,  ty Vám zhotovíme na míru, přesně podle Vašich požadavků.
+</p>
+<p>
+  Ale tvorbou stránek Vaše působení na internetu teprve začíná. Nyní je potřeba se takzvaně zviditelnit, s čímž Vám pomůží naše služby z oblasti (odkaz do kategorie/kotva)internetového prodeje*.
+  Zde se můžete podívat na příkladovou studii, která ukazuje, co všechno je možné udělat a jaké ovoce přináší  spolupráce běžného podnikání a propagace  na internetu. (odkaz na pdf té studie)
+</p>
+ </div>
+
+
+<div id="seo">
+<h2>SEO</h2>
+<p class="big-board-text">
+Optimalizujeme stránky pro návštěvníky, pro vyhledávače, i pro všechna zařízení...
+</p>
+
+</div>
+
+
+
+
+<div id="ppc">
+  <h2>PPC</h2>
+  <p class="big-board-text">
+    Respektujeme intextové kampaně ve vyhledávání Google.
+  </p>
+</div>
+
+
+
+
+<div id="ContactForm">
+
+  <div class="formC">
+<%= form_for :question do |f| %>
+
+      <%= f.label :address %><br>
+      <%= f.text_field :address, placeholder: "Adresa" %>
+
+
+
+      <%= f.label :email %><br>
+      <%= f.text_field :email, placeholder: "eMail" %>
+
+
+
+
+
+      <%= f.label :phone_number %><br>
+      <%= f.text_field :phone_number, placeholder: "Telefon" %>
+
+
+      <%= f.label :text %><br>
+      <%= f.text_area :text, cols: 20, placeholder: "Váš dotaz...", rows: 5 %>
+
+      <br>
+
+
+
+      <%= f.submit class: "btn" %>
+
+<% end %>
+</div>
+</div></div></div>
